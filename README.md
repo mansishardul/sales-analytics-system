@@ -158,15 +158,11 @@ DummyJSON Products API
 
 ## Sample Console Output
 
-```
 <img width="855" height="933" alt="image" src="https://github.com/user-attachments/assets/b2ad485e-03ec-4a90-af63-b5e2c5e96338" />
 
 
----
 
-## Author
 
-**Name:** Mansi Shardul
 
 ---
 
