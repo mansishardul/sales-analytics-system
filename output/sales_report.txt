@@ -1,0 +1,87 @@
+SALES ANALYTICS REPORT
+Generated: 2026-01-15 23:53:43
+Records Processed: 21
+
+OVERALL SUMMARY
+Total Revenue: ₹1,321,605.00
+Total Transactions: 21
+Average Order Value: ₹62,933.57
+Date Range: 2024-12-01 to 2024-12-27
+
+REGION-WISE PERFORMANCE
+Region              Sales     % of Total   Transactions
+North     ₹  1,321,605.00        100.00%             21
+
+TOP 5 PRODUCTS
+Rank  Product                    Qty Sold        Revenue
+1     Wireless Mouse                   19₹     19,934.00
+2     Mouse                            12₹      9,450.00
+3     LaptopPremium                    12₹    933,316.00
+4     Headphones                       10₹     50,029.00
+5     External Hard Drive               9₹     34,218.00
+
+TOP 5 CUSTOMERS
+Rank  Customer                 Spent    Orders
+1     C004           ₹    818,960.00         1
+2     C008           ₹    129,476.00         2
+3     C003           ₹    115,124.00         2
+4     C010           ₹     78,867.00         1
+5     C028           ₹     48,359.00         2
+
+DAILY SALES TREND
+Date                Revenue   Transactions      Customers
+2024-12-01  ₹    118,656.00              1              1
+2024-12-02  ₹      6,958.00              1              1
+2024-12-05  ₹        257.00              1              1
+2024-12-08  ₹      4,710.00              2              2
+2024-12-09  ₹     22,285.00              3              3
+2024-12-10  ₹      1,550.00              1              1
+2024-12-13  ₹     32,134.00              1              1
+2024-12-14  ₹     33,775.00              1              1
+2024-12-15  ₹    818,960.00              1              1
+2024-12-17  ₹    114,356.00              1              1
+2024-12-18  ₹     10,820.00              1              1
+2024-12-22  ₹     13,360.00              1              1
+2024-12-23  ₹        768.00              1              1
+2024-12-25  ₹     29,931.00              3              3
+2024-12-26  ₹     34,218.00              1              1
+2024-12-27  ₹     78,867.00              1              1
+
+PRODUCT PERFORMANCE ANALYSIS
+Best Selling Day: 2024-12-15 (₹818,960.00, 1 transactions)
+Low Performing Products:
+- Webcam: Qty 1, Revenue ₹2,986.00
+- USB Cable: Qty 1, Revenue ₹257.00
+- Laptop: Qty 2, Revenue ₹118,656.00
+- MonitorLED: Qty 2, Revenue ₹32,134.00
+- Laptop Charger: Qty 5, Revenue ₹13,814.00
+- KeyboardMechanical: Qty 5, Revenue ₹13,360.00
+- Keyboard: Qty 8, Revenue ₹14,584.00
+- External Hard Drive: Qty 9, Revenue ₹34,218.00
+- External Hard Drive1TB: Qty 9, Revenue ₹78,867.00
+
+API ENRICHMENT SUMMARY
+Total Records Enriched: 0
+Success Rate: 0.00%
+Products Not Enriched:
+- Wireless Mouse (P109)
+- Mouse (P102)
+- Wireless Mouse (P109)
+- LaptopPremium (P101)
+- Wireless Mouse (P109)
+- External Hard Drive (P108)
+- Laptop Charger (P110)
+- External Hard Drive1TB (P108)
+- Laptop (P101)
+- Webcam (P105)
+- Headphones (P106)
+- Laptop Charger (P110)
+- Mouse (P102)
+- Keyboard (P103)
+- LaptopPremium (P101)
+- Mouse (P102)
+- MonitorLED (P104)
+- Headphones (P106)
+- KeyboardMechanical (P103)
+- Wireless Mouse (P109)
+- USB Cable (P107)
